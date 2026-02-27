@@ -55,7 +55,7 @@ Neste módulo, realizamos uma análise exploratória detalhada dos microdados do
 
 Ao final da análise de cada ano, serão gerados arquivos CSV estruturados, que servirão como entrada para os módulos subsequentes do projeto.
 
-### MÓDULO 02_machine_learning_for_education_data_modeling
+### 02_machine_learning_for_education_data_modeling
   
 Neste módulo, utilizamos os arquivos CSV gerados na análise exploratória (Exames Nacionais do Ensino Médio 2019–2024) para preparar os dados e treinar modelos de aprendizagem de máquina.
 O objetivo é selecionar o modelo com melhor desempenho para preencher lacunas de desempenho geradas pelas limitações dos dados do Exame Nacional do Ensino Médio 2024.
@@ -91,8 +91,8 @@ Além disso este portfólio prioriza:
 ## Status do Projeto
 
 - 🟢 **Módulo 01 – Análise Exploratória (Python):** Realizado
-- 🟢 **Módulo 02 – Correlação Renda × Desempenho (R):** Em desenvolvimento  
-- 🟡 **Módulo 03 – Análise Temporal e Modelagem Exploratória (Python):** Planejada
+- 🟢 **Módulo 02 –  Análise Temporal e Modelagem Exploratória (Python):** Em desenvolvimento  
+- 🟡 **Módulo 03 – Correlação Renda × Desempenho (R):** Planejada
 
   ---
 
