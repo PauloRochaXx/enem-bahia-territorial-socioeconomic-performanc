@@ -95,7 +95,12 @@ Além disso este portfólio prioriza:
 - 🟡 **Módulo 03 – Correlação Renda × Desempenho (R):** Planejada
 
   ---
+## Licença
 
+Este projeto está licenciado sob a MIT License.
+Os dados utilizados são públicos e disponibilizados pelo INEP. Este repositório licencia apenas o código sob MIT License.
+
+  ---
 📌 Referência
 Perfil GitHub:
 https://github.com/PauloRochaXx
