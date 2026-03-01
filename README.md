@@ -58,7 +58,7 @@ Ao final da análise de cada ano, serão gerados arquivos CSV estruturados, que 
 ### 02_modeling
   
 Neste módulo, utilizamos os arquivos CSV gerados na análise exploratória (Exames Nacionais do Ensino Médio 2019–2024) para preparar os dados e treinar modelos de aprendizagem de máquina.
-O objetivo é selecionar o modelo com melhor desempenho para preencher lacunas de desempenho geradas pelas limitações dos dados do Exame Nacional do Ensino Médio 2024.
+O objetivo é selecionar o modelo com melhor performance preditiva para mitigar lacunas decorrentes das limitações observadas nos dados do ENEM 2024.
 
 Ao final do módulo, serão gerados novos arquivos CSV estruturados, que servirão como entrada para o próximo módulo do projeto.
 
@@ -79,11 +79,26 @@ O objetivo final é produzir análises detalhadas e fornecer recomendações de 
 
 As interpretações são fundamentadas em padrões observados nos dados e em técnicas estatísticas consolidadas.
 
-Além disso este portfólio prioriza:
+Além disso, este portfólio prioriza:
 - coerência metodológica,
 - transparência analítica,
 - reprodutibilidade dos procedimentos.
 
+---
+
+## Evolução Arquitetural e Técnica
+
+O projeto encontra-se em processo contínuo de refinamento estrutural, com foco em aprimorar organização, eficiência e reprodutibilidade. Sua concepção modular permite evolução incremental e desenvolvimento colaborativo, preservando consistência metodológica e clareza analítica.
+
+Entre os ajustes em avaliação estão:
+
+- consolidação dos notebooks anuais em estruturas parametrizadas, reduzindo redundância e promovendo maior modularidade;
+- reorganização de rotinas repetitivas em scripts reutilizáveis;
+- fortalecimento do pipeline de processamento de dados;
+- ampliação da integração entre Python e R, assegurando coerência entre modelagem e inferência estatística;
+- padronização adicional de outputs e relatórios técnicos.
+
+Essa diretriz de aprimoramento contínuo busca fortalecer a robustez técnica do projeto e ampliar suas possibilidades analíticas.
 
 
 ---
