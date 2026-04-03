@@ -32,7 +32,7 @@ As bases e análises aqui neste módulo serão insumos para os módulos subseque
 Os microdados de 2019 a 2024 não estão no repositório devido ao tamanho. Eles podem ser baixados do site do INEP:
 https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
 
-O arquivo de apoio territorial `tbl_nte_*.csv`, assim como os arquivos produzidos (saídas dos processos) se encontram disponíveis na pasta (https://drive.google.com/drive/u/1/folders/1AdZgn0coXcbEh2Zu4IOwXcz7fDQJ_lbO?hl=pt-br)
+O arquivo de apoio territorial tbl_nte_ba.csv, assim como os arquivos produzidos (saídas dos processos) se encontram disponíveis na pasta (https://drive.google.com/drive/u/1/folders/1AdZgn0coXcbEh2Zu4IOwXcz7fDQJ_lbO?hl=pt-br)
 
 ---
 
